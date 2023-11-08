@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FinestWay
 - 👀 I’m interested in coding/Development 
-- 🌱 I’m currently learning Full stack web development using MERN Stack
+- 🌱 I’m currently learning Full stack stack web development using MERN Stack
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
